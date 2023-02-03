@@ -7,4 +7,4 @@ Nesse projeto veio para trazer outra forma de fazer os layout, como o conceito d
 - Grid layout
 - Animações
 
-deploy : atrick-cabelin.github.io/desafio-space-cream
+deploy : patrick-cabelin.github.io/desafio-space-cream
